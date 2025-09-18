@@ -39,9 +39,9 @@ PythonWithAnkit/
 │   └── helper_examples.py
 │
 └── README.md
-
+```
 ## 🚀 How to Use
-
+---
 1. Clone the repository:
 
    ```bash
@@ -51,7 +51,6 @@ PythonWithAnkit/
 
    ```bash
    cd PythonWithAnkit
-   jupyter notebook
    ```
 3. Run and practice with the same code used in my videos.
 
