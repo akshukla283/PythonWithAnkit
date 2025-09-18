@@ -15,7 +15,7 @@ Here, I’ll be sharing all the code, notes, and examples that I use in my video
 ---
 
 ## 📺 YouTube Channel
-👉 [Subscribe to PythonWithAnkit on YouTube](www.youtube.com/@pythonwithankitshukla)
+👉 [Subscribe to PythonWithAnkit on YouTube](https://www.youtube.com/@pythonwithankitshukla))
 
 On the channel, I post:
 - Python basics explained step by step 🐍  
@@ -66,7 +66,7 @@ This way, we can learn and grow together as a Python community. 💡
 
 ## 📢 Stay Connected
 
-* 📺 YouTube: ([PythonWithAnkit](www.youtube.com/@pythonwithankitshukla))
+* 📺 YouTube: ([PythonWithAnkit](https://www.youtube.com/@pythonwithankitshukla)))
 * 💬 Comments: Drop your doubts/questions under each video
 * ⭐ Don’t forget to **star this repo** if you find it useful!
 
